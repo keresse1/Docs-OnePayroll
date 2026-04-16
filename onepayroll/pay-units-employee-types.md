@@ -92,9 +92,9 @@ When you assign an employee type to an employee, the employee inherits the pay u
 **To assign an employee type:**
 
 1. Search for **Employees** and open the employee card.
-2. On the **OnePayroll** section, select the **Type** field.
+2. On the **Employment** section, select the **Type** field.
 3. Choose the appropriate employee type from the list.
-4. The employee's **Pay Unit** and **Pay Factor** fields update automatically.
+4. The employee's **Pay Type** and **Pay Factor** fields update automatically.
 
 ## Global pay unit
 
